@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FirebaseUserImporter": {
+      "commandName": "Project",
+      "commandLineArgs": "serviceAccountKey.json prodUserDump.json devUserDump.json output.json"
+    }
+  }
+}
